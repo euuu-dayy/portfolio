@@ -964,7 +964,7 @@ const Home = () => {
                   </a>
 
                   <a
-                    href="#"
+                    href="https://github.com/euuu-dayy/KHall"
                     className="text-indigo-400 hover:text-indigo-300 flex items-center gap-1 transition-colors"
                   >
                     <span>Code</span>
